@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohanad3751 and I'm a Data scientist from Egypt.</h2>
+<h2 align="left">Hi 👋! My name is Mohanad and I'm a Data scientist from Egypt.</h2>
 
 ###
 
